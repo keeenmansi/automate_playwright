@@ -1,5 +1,5 @@
 module.exports = {
-    
+  
     UiUrl:
     {
         feedbackform:'https://portal-demo.npinew.keenable.in/feedback'
@@ -9,8 +9,16 @@ module.exports = {
         nameinputfield : 'xpath=/html/body/div[2]/div/div/div[3]/form/div[1]/div/div[2]/input'
     },
     Allplaceholder : {
-        nameplceholder : "Name", 
+        nameplceholder : "Name",
         emailInputField : "Email",
-        categoryselector : "Category*"
+        categoryselector : "Category*",
+        MaximumCategory : "Maximum Character",
+        getByLebel : "Submit form",
+        captchaCode : "Captcha Code",
+        Submitbutton : "Submit form"
     }
-}
+ }
+ 
+ 
+ 
+ 
